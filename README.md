@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Currently, this document is work in progress. 
+
 <!--
 **diederiknl/diederiknl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
